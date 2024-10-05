@@ -1,1 +1,2 @@
 How old is the JavaScript programming language?
+As of 2024 javaScript is 29 years old
